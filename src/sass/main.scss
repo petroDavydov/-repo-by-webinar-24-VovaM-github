@@ -57,7 +57,8 @@ img {
   color: black;
 }
 
-.submit-push, .load-more {
+.submit-push,
+.load-more {
   width: 200px;
   height: 50px;
   margin-left: 15px;
@@ -67,7 +68,8 @@ img {
   transition: 0.5s;
 }
 
-.submit-push:hover, .load-more:hover {
+.submit-push:hover,
+.load-more:hover {
   transition: 0.5s;
   cursor: pointer;
   box-shadow: 0px 3px 35px 3px #2b8b5f;
@@ -79,13 +81,13 @@ img {
 }
 
 .coctail-text {
- font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 35px;
   font-weight: 600;
   color: #c71848;
-  
+
   text-transform: uppercase;
- 
+
   display: inline-block;
   text-shadow: -1px -3px 0px wheat;
 }
